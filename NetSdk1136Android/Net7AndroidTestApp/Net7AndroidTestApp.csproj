@@ -8,6 +8,7 @@
 		<ApplicationId>com.companyname.Net7AndroidTestApp</ApplicationId>
 		<ApplicationVersion>1</ApplicationVersion>
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<DisableTransitiveFrameworkReferences>true</DisableTransitiveFrameworkReferences>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="Xamarin.Essentials" Version="1.7.5" />
